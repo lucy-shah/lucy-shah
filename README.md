@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi, I'm a CS and Business major @ northeastern'
 <!--
 **lucy-shah/lucy-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
